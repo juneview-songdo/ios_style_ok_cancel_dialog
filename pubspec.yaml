@@ -1,7 +1,7 @@
 name: ios_style_ok_cancel_dialog
-description: "Description here"
+description: "IOS Style Ok Cancel Dialog"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneview-songdo/ios_style_ok_cancel_dialog
 
 version: 1.0.0+1
 
